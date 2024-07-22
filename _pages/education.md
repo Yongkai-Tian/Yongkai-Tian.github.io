@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Education"
+permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. student, School of Computer Science and Engineering, Beihang University.** 2022.09-present. 
+  * Main Courses: Design and Analysis of Algorithms, Artificial Intelligence: Theory and Application, Informationg System Integration Technology.
+* **M.S., School of Computer Science and Engineering, Beihang University.** 2020.09-2022.06.  
+  * Main Courses: Advanced Computer Networks, Intelligent Autonomous System, Design and Analysis of Algorithms, Machine Learning, Computer Graphics, Human-Computer Interaction, Operating System Structure Analysis, Experiments of Computer Network and Communication.
+* **B.S., School of Software and Engineering, Tongji University.** 2015.09-2019.06.  
+  * Main Courses: Advanced Mathematics, C Programming, Discrete Mathematics, Probability and Mathematical Statistics, Software Engineering, Computer Network, Data Structure, 
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
