@@ -24,7 +24,7 @@ Publications
 ------
 1. **Exploiting Hierarchical Symmetry in Multi-Agent Reinforcement Learning**  
 **Yongkai Tian**, Xin Yu, Yirong Qi, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi, Jie Luo  
-[ECAI 2024 (CCF B)](https://www.ecai2024.eu/)| [pdf]() | [Project page]()  
+[ECAI 2024 (CCF B)](https://www.ecai2024.eu/)| [pdf]() | [Project page](https://yongkai-tian.github.io/HEPN/)  
 2. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning**   
 Xin Yu, **Yongkai Tian**, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi  
 [ICRA 2024 (CCF B)](https://2024.ieee-icra.org/) | [pdf](../files/AdaptAUG.pdf) | [Project page](https://xinyu-site.github.io/AdaptAUG/)  
