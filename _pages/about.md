@@ -18,7 +18,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Recent News
 ======
-<p style="font-size:18px"> <strong>[2024.7]</strong> One first-authored paper on robust MARL accepted by ECAI 2024.</p>
+<p style="font-size:18px"> <strong>[2024.07]</strong> One first-authored paper on robust MARL accepted by ECAI 2024.</p>
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
@@ -28,7 +28,7 @@ Recent News
 
 Publications
 ------
-**AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>Xin Yu, **Yongkai Tian**, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">ICRA 2024 (CCF B)</a> $\vert$ <a href="../files/AdaptAUG.pdf">pdf</a> $\vert$<a href="https://xinyu-site.github.io/AdaptAUG/"> Project page</a>
+**AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>Xin Yu, **Yongkai Tian**, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">ICRA 2024 (CCF B)</a> | <a href="../files/AdaptAUG.pdf">pdf</a> | <a href="https://xinyu-site.github.io/AdaptAUG/"> Project page</a>
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
 
 Work in progress
