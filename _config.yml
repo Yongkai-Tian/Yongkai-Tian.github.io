@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Beihang University, interested in multi-agent reinforcement learning"
   location         : "Beijing, China"
-  employer         : ""
+  employer         : # ""
   uri              : # URL
   email            : "tianyk@buaa.edu.cn" 
 
