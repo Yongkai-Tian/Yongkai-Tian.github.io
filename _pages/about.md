@@ -20,11 +20,29 @@ Recent News
 ======
 <p style="font-size:18px"> <strong>[2024.07]</strong> One first-authored paper on robust MARL accepted by ECAI 2024.</p>
 
-
 Publications
 ------
-**AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>Xin Yu, **Yongkai Tian**, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">ICRA 2024 (CCF B)</a> | <a href="../files/AdaptAUG.pdf">pdf</a> | <a href="https://xinyu-site.github.io/AdaptAUG/"> Project page</a>
-<!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
+1. **Exploiting Hierarchical Symmetry in Multi-Agent Reinforcement Learning**  
+**Yongkai Tian**, Xin Yu, Yirong Qi, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi, Jie Luo  
+[ECAI 2024 (CCF B)](https://www.ecai2024.eu/)| [pdf]() | [Project page]()
+
+2. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>Xin Yu, **Yongkai Tian**, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">ICRA 2024 (CCF B)</a> | <a href="../files/AdaptAUG.pdf">pdf</a> | <a href="https://xinyu-site.github.io/AdaptAUG/"> Project page</a>
+
+3. **Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**  
+Xin Yu, Rongye Shi, **Yongkai Tian**, Simin Li, Shuhao Liao, Wenjun Wu  
+[AAAI 2024 (CCF A)](https://aaai.org/aaai-conference/)| [pdf](../files/pse.pdf) | [Project page](https://xinyu-site.github.io/PSE/)
+
+4. **ESP: Exploiting Symmetry Prior for Multi-Agent Reinforcement Learning**  
+Xin Yu, Rongye Shi, Pu Feng, **Yongkai Tian**, Jie Luo, Wenjun Wu  
+[ECAI 2023 (CCF B)](https://ecai2023.eu/) | [pdf](../files/ecai2023.pdf) | [Project page](https://xinyu-site.github.io/esp-marl)  
+
+5. **Swarm inverse reinforcement learning for biological systems**  
+Xin Yu, Pu Feng, **Yongkai Tian**, Wenjun Wu  
+[BIBM 2021 (CCF B)](https://ieeebibm.org/BIBM2021/) | [pdf](../files/bibm.pdf)  
+
+6. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup**  
+Pu Feng, Xin Yu, Junkang Liang, Wenjun Wu, **Yongkai Tian**  
+[ICSI](https://link.springer.com/conference/swarm) | [pdf](../files/icsi.pdf)
 
 Work in progress
 ------
