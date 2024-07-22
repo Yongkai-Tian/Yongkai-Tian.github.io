@@ -24,25 +24,22 @@ Publications
 ------
 1. **Exploiting Hierarchical Symmetry in Multi-Agent Reinforcement Learning**  
 **Yongkai Tian**, Xin Yu, Yirong Qi, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi, Jie Luo  
-[ECAI 2024 (CCF B)](https://www.ecai2024.eu/)| [pdf]() | [Project page]()
-
-2. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning** <br>Xin Yu, **Yongkai Tian**, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi<br> <a href="https://2024.ieee-icra.org/">ICRA 2024 (CCF B)</a> | <a href="../files/AdaptAUG.pdf">pdf</a> | <a href="https://xinyu-site.github.io/AdaptAUG/"> Project page</a>
-
+[ECAI 2024 (CCF B)](https://www.ecai2024.eu/)| [pdf]() | [Project page]()  
+2. **AdaptAUG: Adaptive Data Augmentation Framework for Multi-Agent Reinforcement Learning**   
+Xin Yu, **Yongkai Tian**, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi  
+[ICRA 2024 (CCF B)](https://2024.ieee-icra.org/) | [pdf](../files/AdaptAUG.pdf) | [Project page](https://xinyu-site.github.io/AdaptAUG/)  
 3. **Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**  
 Xin Yu, Rongye Shi, **Yongkai Tian**, Simin Li, Shuhao Liao, Wenjun Wu  
-[AAAI 2024 (CCF A)](https://aaai.org/aaai-conference/)| [pdf](../files/pse.pdf) | [Project page](https://xinyu-site.github.io/PSE/)
-
+[AAAI 2024 (CCF A)](https://aaai.org/aaai-conference/)| [pdf](../files/pse.pdf) | [Project page](https://xinyu-site.github.io/PSE/)  
 4. **ESP: Exploiting Symmetry Prior for Multi-Agent Reinforcement Learning**  
 Xin Yu, Rongye Shi, Pu Feng, **Yongkai Tian**, Jie Luo, Wenjun Wu  
 [ECAI 2023 (CCF B)](https://ecai2023.eu/) | [pdf](../files/ecai2023.pdf) | [Project page](https://xinyu-site.github.io/esp-marl)  
-
 5. **Swarm inverse reinforcement learning for biological systems**  
 Xin Yu, Pu Feng, **Yongkai Tian**, Wenjun Wu  
 [BIBM 2021 (CCF B)](https://ieeebibm.org/BIBM2021/) | [pdf](../files/bibm.pdf)  
-
 6. **MACT: Multi-agent Collision Avoidance with Continuous Transition Reinforcement Learning via Mixup**  
 Pu Feng, Xin Yu, Junkang Liang, Wenjun Wu, **Yongkai Tian**  
-[ICSI](https://link.springer.com/conference/swarm) | [pdf](../files/icsi.pdf)
+[ICSI](https://link.springer.com/conference/swarm) | [pdf](../files/icsi.pdf)  
 
 Work in progress
 ------
