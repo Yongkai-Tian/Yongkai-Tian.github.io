@@ -16,6 +16,7 @@ Multi Agent Reinforcement Learning
 
 Recent News
 ======
+<p style="font-size:18px"> <strong>[2025.06]</strong> One first-authored paper on MA-IRL accepted by IROS 2025.</p>
 <p style="font-size:18px"> <strong>[2024.07]</strong> One first-authored paper on robust MARL accepted by ECAI 2024.</p>
 
 Publications
